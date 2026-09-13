@@ -163,7 +163,7 @@ def run_as_omero_script():
             optional=False,
             grouping="6",
             description="Debug mode"),
-        version="0.1.0",
+        version="1.0.0",
         authors=["Muhanad Zahra, Emil Rozbicki, Chao Hui Huang"],
         institutions=["Glencoe Software Inc., Pfizer Inc."],
         contact="support@glencoesoftware.com, chao-hui.huang@pfizer.com",
